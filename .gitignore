@@ -2,8 +2,8 @@
 node_modules/
 
 # VitePress 构建输出和缓存
-./docs/.vitepress/dist/
-./docs/.vitepress/cache/
+docs/.vitepress/dist/
+docs/.vitepress/cache/
 
 # 依赖锁定文件 (根据你使用的包管理器选择保留其中之一)
 package-lock.json
