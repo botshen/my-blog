@@ -4,22 +4,22 @@ layout: home
 
 hero:
   name: "沈鑫的博客"
-  text: "记录生活，分享技术"
-  tagline: 记录生活，分享技术
+  text: "记录生活"
+  # tagline: 记录生活
   actions:
     - theme: brand
-      text: Markdown Examples
+      text: 点击进入
       link: /markdown-examples
-    - theme: alt
-      text: API Examples
-      link: /api-examples
+    # - theme: alt
+    #   text: API Examples
+    #   link: /api-examples
 
-features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+# features:
+#   - title: Feature A
+#     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+#   - title: Feature B
+#     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+#   - title: Feature C
+#     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
 ---
 
